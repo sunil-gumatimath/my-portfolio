@@ -1,6 +1,6 @@
-# Scout Vite Template
+# Sunil Portfolio
 
-This is a [Vite](https://vite.dev) project bootstrapped with React + TypeScript and configured with TailwindCSS v4 and ShadCN UI.
+A personal portfolio website built with React, TypeScript, and TailwindCSS using Vite as the build tool and ShadCN UI for components.
 
 ## Getting Started
 
