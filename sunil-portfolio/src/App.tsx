@@ -65,12 +65,12 @@ export default function Portfolio() {
                 </Button>
               </a>
               <div className="flex gap-4">
-                <a href="https://linkedin.com/in/sunil-gumatimath" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/sunil-gumatimath-2a6577240/" target="_blank" rel="noopener noreferrer">
                   <Button variant="outline" size="icon">
                     <Linkedin className="h-4 w-4" />
                   </Button>
                 </a>
-                <a href="https://github.com/sunilgumatimath" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/sunil-gumatimath" target="_blank" rel="noopener noreferrer">
                   <Button variant="outline" size="icon">
                     <Github className="h-4 w-4" />
                   </Button>
@@ -392,13 +392,13 @@ export default function Portfolio() {
                   </div>
                   <div className="flex items-center gap-3">
                     <Linkedin className="h-5 w-5 text-primary" />
-                    <a href="https://linkedin.com/in/sunil-gumatimath" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                    <a href="https://www.linkedin.com/in/sunil-gumatimath-2a6577240/" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                       LinkedIn Profile
                     </a>
                   </div>
                   <div className="flex items-center gap-3">
                     <Github className="h-5 w-5 text-primary" />
-                    <a href="https://github.com/sunilgumatimath" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                    <a href="https://github.com/sunil-gumatimath" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                       GitHub Profile
                     </a>
                   </div>
